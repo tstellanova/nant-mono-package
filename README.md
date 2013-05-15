@@ -12,3 +12,10 @@ The script does:
 Here is the result:
 
 ![A screenshot of the NAnt installer](https://github.com/Monobjc/nant-mono-package/raw/master/screenshot.png "NAnt Installer")
+
+Note that you will need to install PackageMaker for OSX in order to run this script. PackageMaker is no longer bundled with Xcode.
+
+This is available here: 
+[Auxiliary Tools for Developer Preview](https://developer.apple.com/downloads/index.action). An Apple ID login is required. 
+
+
